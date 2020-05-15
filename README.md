@@ -1,4 +1,4 @@
-# ReactNativeTsContext
+# ReactNative TypeScript usando o Context
 Desenvolvido um app aonde mostra o fluxo de login e logout, 
 e armazenamento de usuário, 
 e uso do context para mandar informações para todos os componentes.
